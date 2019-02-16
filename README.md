@@ -1,2 +1,2 @@
-# simple-gac
-A simple genetic algorithm engine written in python
+# simple-ga
+A simple genetic algorithm written in python
